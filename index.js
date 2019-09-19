@@ -1,3 +1,3 @@
 module.exports = function() {
-  console.log('ola')
+  console.log('ola amigos')
 }
